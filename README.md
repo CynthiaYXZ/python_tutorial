@@ -14,5 +14,7 @@ Step
 
 2. Save the change
 
+3. Push your file through "source control"
+
 
 
