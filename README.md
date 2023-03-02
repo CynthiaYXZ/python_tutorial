@@ -14,7 +14,9 @@ Step
 
 2. Save the change
 
-3. Push your file through "source control"
+3. Commit it first in source control and add notes about the change made
+
+4. Push through "source control" to finally launch it on Github
 
 
 
