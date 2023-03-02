@@ -7,6 +7,12 @@ My Name is Cynthia
 
 - Tunghai University
 - GMBA
-- coba lagi 
-- sekali lagi biar terbiasa
+
+Step
+
+1. add your change to the editor
+
+2. Save the change
+
+
 
