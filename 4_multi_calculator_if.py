@@ -24,8 +24,6 @@ elif op== "sd":
 	(int(x3)-((int(x1)+int(x2)+int(x3))/3))**2
 	)
 	/3)
-
-#homework
-#    
+#
 # 3.Output
 print(f"Sum:{sum}")
