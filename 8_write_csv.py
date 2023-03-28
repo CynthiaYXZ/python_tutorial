@@ -7,10 +7,10 @@ raw_data = pd.read_csv("Menu.csv")
 
 #process
 total = raw_data["Price"].sum()
-
+Itemsorted = raw_data.sort_values("Menu")
 #output
 print(f"Count:{len(raw_data.index)}")
-print(raw_data)
+print(Itemsorted)
 print(f"Total:{total}")
 
 raw_data.loc[len(raw_data)]=["total",total]
