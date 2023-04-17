@@ -3,6 +3,7 @@
 #
 import statistics, math
 
+
 def my_covariance(input_x, input_y):
     length = len(input_x)
     cov = 0 
