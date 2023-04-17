@@ -16,3 +16,4 @@ print(f"Total:{total}")
 raw_data.loc[len(raw_data)]=["total",total]
 
 raw_data.to_csv("Menu_total.csv")
+ 
