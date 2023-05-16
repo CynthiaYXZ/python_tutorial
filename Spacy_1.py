@@ -7,5 +7,5 @@ doc=nlp("Apple is loooking at buying U.K Startup for $1 billion")
 #doc=nlp("Apple is looking at buying U.K Startup for $1 billion")
 
 for token in doc:
-    print(token.text, token.pos_,token.dep_,token.)
+    print(token.text, token.pos_,token.dep_)
 
