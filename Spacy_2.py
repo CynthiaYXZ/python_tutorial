@@ -7,7 +7,7 @@ stopword=[]
 nonstopword=[]
 
 for token in doc:
-    print(token.text, token.lemma_, token.pos_,token.dep_, token.is_stop)
+    print(token.text, token.pos_,token.dep_, token.is_stop)
     if token.is_stop == False:
         counter +=1
         nonstopword.append(token.text)
